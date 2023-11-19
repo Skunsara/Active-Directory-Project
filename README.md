@@ -15,7 +15,7 @@
 - [Conclusion](https://github.com/Skunsara/Active-Directory-Projet/blob/main/install.md#conclusion)
 
 ## Introduction
-https://github.com/Skunsara/Active-Directory-Projet/blob/main/Screenshots/Network%20diagram.jpeg
+![.](https://github.com/Skunsara/Active-Directory-Projet/blob/main/Screenshots/Network%20diagram.jpeg)
 This guide provides step-by-step instructions for setting up an Active Directory lab environment on your personal computer using VirtualBox. The lab consists of a domain controller and a Windows 10 client, both configured to communicate within a virtual network. This environment enables experimentation with Active Directory features, Windows networking, and various administrative tasks.
 
 ## Project Members
